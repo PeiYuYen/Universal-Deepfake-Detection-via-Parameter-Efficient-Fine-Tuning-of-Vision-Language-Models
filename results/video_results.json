@@ -1,0 +1,560 @@
+{
+  "metrics": {
+    "auc": 0.835,
+    "f1": 0.9042553191489362,
+    "acc": 0.8363636363636363,
+    "eer": 0.21
+  },
+  "videos": [
+    {
+      "video_id": "218",
+      "mean_score": 0.3541995882987976,
+      "label": 0
+    },
+    {
+      "video_id": "194",
+      "mean_score": 0.29384127259254456,
+      "label": 0
+    },
+    {
+      "video_id": "263",
+      "mean_score": 0.1913290172815323,
+      "label": 0
+    },
+    {
+      "video_id": "600",
+      "mean_score": 0.4340227246284485,
+      "label": 0
+    },
+    {
+      "video_id": "153",
+      "mean_score": 0.3858110308647156,
+      "label": 0
+    },
+    {
+      "video_id": "360",
+      "mean_score": 0.21858134865760803,
+      "label": 0
+    },
+    {
+      "video_id": "154",
+      "mean_score": 0.23989856243133545,
+      "label": 0
+    },
+    {
+      "video_id": "217",
+      "mean_score": 0.5615283250808716,
+      "label": 0
+    },
+    {
+      "video_id": "232",
+      "mean_score": 0.7003373503684998,
+      "label": 0
+    },
+    {
+      "video_id": "578",
+      "mean_score": 0.8798590302467346,
+      "label": 0
+    },
+    {
+      "video_id": "881",
+      "mean_score": 0.7961380481719971,
+      "label": 1
+    },
+    {
+      "video_id": "611",
+      "mean_score": 0.3794277012348175,
+      "label": 1
+    },
+    {
+      "video_id": "082",
+      "mean_score": 0.6094324588775635,
+      "label": 1
+    },
+    {
+      "video_id": "636",
+      "mean_score": 0.7819673418998718,
+      "label": 1
+    },
+    {
+      "video_id": "719",
+      "mean_score": 0.8291527032852173,
+      "label": 1
+    },
+    {
+      "video_id": "891",
+      "mean_score": 0.9241676926612854,
+      "label": 1
+    },
+    {
+      "video_id": "376",
+      "mean_score": 0.9383582472801208,
+      "label": 1
+    },
+    {
+      "video_id": "845",
+      "mean_score": 0.32561227679252625,
+      "label": 1
+    },
+    {
+      "video_id": "443",
+      "mean_score": 0.5143771171569824,
+      "label": 1
+    },
+    {
+      "video_id": "098",
+      "mean_score": 0.4007952809333801,
+      "label": 1
+    },
+    {
+      "video_id": "857",
+      "mean_score": 0.6413890719413757,
+      "label": 1
+    },
+    {
+      "video_id": "103",
+      "mean_score": 0.9527003765106201,
+      "label": 1
+    },
+    {
+      "video_id": "018",
+      "mean_score": 0.7084675431251526,
+      "label": 1
+    },
+    {
+      "video_id": "145",
+      "mean_score": 0.9258120059967041,
+      "label": 1
+    },
+    {
+      "video_id": "543",
+      "mean_score": 0.8798958659172058,
+      "label": 1
+    },
+    {
+      "video_id": "381",
+      "mean_score": 0.8544790148735046,
+      "label": 1
+    },
+    {
+      "video_id": "250",
+      "mean_score": 0.9222242832183838,
+      "label": 1
+    },
+    {
+      "video_id": "640",
+      "mean_score": 0.9253062605857849,
+      "label": 1
+    },
+    {
+      "video_id": "487",
+      "mean_score": 0.7114580869674683,
+      "label": 1
+    },
+    {
+      "video_id": "192",
+      "mean_score": 0.8842388987541199,
+      "label": 1
+    },
+    {
+      "video_id": "577",
+      "mean_score": 0.9774494767189026,
+      "label": 1
+    },
+    {
+      "video_id": "152",
+      "mean_score": 0.73140949010849,
+      "label": 1
+    },
+    {
+      "video_id": "202",
+      "mean_score": 0.5518246293067932,
+      "label": 1
+    },
+    {
+      "video_id": "219",
+      "mean_score": 0.8286076784133911,
+      "label": 1
+    },
+    {
+      "video_id": "131",
+      "mean_score": 0.8446723818778992,
+      "label": 1
+    },
+    {
+      "video_id": "621",
+      "mean_score": 0.34976890683174133,
+      "label": 1
+    },
+    {
+      "video_id": "199",
+      "mean_score": 0.9222700595855713,
+      "label": 1
+    },
+    {
+      "video_id": "491",
+      "mean_score": 0.9283533096313477,
+      "label": 1
+    },
+    {
+      "video_id": "938",
+      "mean_score": 0.7712414264678955,
+      "label": 1
+    },
+    {
+      "video_id": "065",
+      "mean_score": 0.7110826373100281,
+      "label": 1
+    },
+    {
+      "video_id": "189",
+      "mean_score": 0.761046290397644,
+      "label": 1
+    },
+    {
+      "video_id": "040",
+      "mean_score": 0.9932634830474854,
+      "label": 1
+    },
+    {
+      "video_id": "770",
+      "mean_score": 0.9022974371910095,
+      "label": 1
+    },
+    {
+      "video_id": "356",
+      "mean_score": 0.9014661908149719,
+      "label": 1
+    },
+    {
+      "video_id": "623",
+      "mean_score": 0.5832803249359131,
+      "label": 1
+    },
+    {
+      "video_id": "791",
+      "mean_score": 0.259074866771698,
+      "label": 1
+    },
+    {
+      "video_id": "604",
+      "mean_score": 0.9444766044616699,
+      "label": 1
+    },
+    {
+      "video_id": "179",
+      "mean_score": 0.9057593941688538,
+      "label": 1
+    },
+    {
+      "video_id": "213",
+      "mean_score": 0.920215368270874,
+      "label": 1
+    },
+    {
+      "video_id": "488",
+      "mean_score": 0.8378869891166687,
+      "label": 1
+    },
+    {
+      "video_id": "633",
+      "mean_score": 0.33215928077697754,
+      "label": 1
+    },
+    {
+      "video_id": "943",
+      "mean_score": 0.357054203748703,
+      "label": 1
+    },
+    {
+      "video_id": "127",
+      "mean_score": 0.5523766875267029,
+      "label": 1
+    },
+    {
+      "video_id": "868",
+      "mean_score": 0.8856236934661865,
+      "label": 1
+    },
+    {
+      "video_id": "642",
+      "mean_score": 0.743771493434906,
+      "label": 1
+    },
+    {
+      "video_id": "130",
+      "mean_score": 0.886053204536438,
+      "label": 1
+    },
+    {
+      "video_id": "299",
+      "mean_score": 0.9322150945663452,
+      "label": 1
+    },
+    {
+      "video_id": "338",
+      "mean_score": 0.9413107633590698,
+      "label": 1
+    },
+    {
+      "video_id": "896",
+      "mean_score": 0.6562935709953308,
+      "label": 1
+    },
+    {
+      "video_id": "438",
+      "mean_score": 0.44890859723091125,
+      "label": 1
+    },
+    {
+      "video_id": "484",
+      "mean_score": 0.08461765199899673,
+      "label": 1
+    },
+    {
+      "video_id": "486",
+      "mean_score": 0.8544635772705078,
+      "label": 1
+    },
+    {
+      "video_id": "527",
+      "mean_score": 0.7727102041244507,
+      "label": 1
+    },
+    {
+      "video_id": "763",
+      "mean_score": 0.796514630317688,
+      "label": 1
+    },
+    {
+      "video_id": "366",
+      "mean_score": 0.8488592505455017,
+      "label": 1
+    },
+    {
+      "video_id": "965",
+      "mean_score": 0.2811761200428009,
+      "label": 1
+    },
+    {
+      "video_id": "439",
+      "mean_score": 0.8464249968528748,
+      "label": 1
+    },
+    {
+      "video_id": "361",
+      "mean_score": 0.70467609167099,
+      "label": 1
+    },
+    {
+      "video_id": "224",
+      "mean_score": 0.6774861812591553,
+      "label": 1
+    },
+    {
+      "video_id": "964",
+      "mean_score": 0.8918718099594116,
+      "label": 1
+    },
+    {
+      "video_id": "800",
+      "mean_score": 0.9631073474884033,
+      "label": 1
+    },
+    {
+      "video_id": "992",
+      "mean_score": 0.9250702261924744,
+      "label": 1
+    },
+    {
+      "video_id": "955",
+      "mean_score": 0.6271613836288452,
+      "label": 1
+    },
+    {
+      "video_id": "234",
+      "mean_score": 0.606805682182312,
+      "label": 1
+    },
+    {
+      "video_id": "921",
+      "mean_score": 0.7826551795005798,
+      "label": 1
+    },
+    {
+      "video_id": "882",
+      "mean_score": 0.5413106679916382,
+      "label": 1
+    },
+    {
+      "video_id": "324",
+      "mean_score": 0.6450080275535583,
+      "label": 1
+    },
+    {
+      "video_id": "307",
+      "mean_score": 0.8970443606376648,
+      "label": 1
+    },
+    {
+      "video_id": "677",
+      "mean_score": 0.8330873250961304,
+      "label": 1
+    },
+    {
+      "video_id": "941",
+      "mean_score": 0.7613147497177124,
+      "label": 1
+    },
+    {
+      "video_id": "832",
+      "mean_score": 0.4058884382247925,
+      "label": 1
+    },
+    {
+      "video_id": "262",
+      "mean_score": 0.8112260699272156,
+      "label": 1
+    },
+    {
+      "video_id": "710",
+      "mean_score": 0.4309450685977936,
+      "label": 1
+    },
+    {
+      "video_id": "052",
+      "mean_score": 0.9511470794677734,
+      "label": 1
+    },
+    {
+      "video_id": "489",
+      "mean_score": 0.8100925087928772,
+      "label": 1
+    },
+    {
+      "video_id": "455",
+      "mean_score": 0.9840300679206848,
+      "label": 1
+    },
+    {
+      "video_id": "304",
+      "mean_score": 0.7944349050521851,
+      "label": 1
+    },
+    {
+      "video_id": "391",
+      "mean_score": 0.8933805227279663,
+      "label": 1
+    },
+    {
+      "video_id": "674",
+      "mean_score": 0.8957265019416809,
+      "label": 1
+    },
+    {
+      "video_id": "349",
+      "mean_score": 0.8803853988647461,
+      "label": 1
+    },
+    {
+      "video_id": "319",
+      "mean_score": 0.3624480366706848,
+      "label": 1
+    },
+    {
+      "video_id": "254",
+      "mean_score": 0.6801668405532837,
+      "label": 1
+    },
+    {
+      "video_id": "170",
+      "mean_score": 0.6822173595428467,
+      "label": 1
+    },
+    {
+      "video_id": "463",
+      "mean_score": 0.8056791424751282,
+      "label": 1
+    },
+    {
+      "video_id": "396",
+      "mean_score": 0.9252047538757324,
+      "label": 1
+    },
+    {
+      "video_id": "163",
+      "mean_score": 0.6548463702201843,
+      "label": 1
+    },
+    {
+      "video_id": "181",
+      "mean_score": 0.5423691868782043,
+      "label": 1
+    },
+    {
+      "video_id": "504",
+      "mean_score": 0.8817914724349976,
+      "label": 1
+    },
+    {
+      "video_id": "843",
+      "mean_score": 0.6302072405815125,
+      "label": 1
+    },
+    {
+      "video_id": "176",
+      "mean_score": 0.5224641561508179,
+      "label": 1
+    },
+    {
+      "video_id": "221",
+      "mean_score": 0.9299670457839966,
+      "label": 1
+    },
+    {
+      "video_id": "746",
+      "mean_score": 0.08697637915611267,
+      "label": 1
+    },
+    {
+      "video_id": "453",
+      "mean_score": 0.6751493811607361,
+      "label": 1
+    },
+    {
+      "video_id": "826",
+      "mean_score": 0.9018939137458801,
+      "label": 1
+    },
+    {
+      "video_id": "969",
+      "mean_score": 0.8748237490653992,
+      "label": 1
+    },
+    {
+      "video_id": "977",
+      "mean_score": 0.770690381526947,
+      "label": 1
+    },
+    {
+      "video_id": "985",
+      "mean_score": 0.5018308758735657,
+      "label": 1
+    },
+    {
+      "video_id": "983",
+      "mean_score": 0.8775894045829773,
+      "label": 1
+    },
+    {
+      "video_id": "317",
+      "mean_score": 0.7387060523033142,
+      "label": 1
+    },
+    {
+      "video_id": "874",
+      "mean_score": 0.37751755118370056,
+      "label": 1
+    }
+  ]
+}
