@@ -33,14 +33,15 @@ pip install -r requirements.txt
 直接使用以下指令快速開始：
 
 ### Inference Command
-載入訓練後的權重檔：
+載入訓練後的權重檔後可進行推理(約2min)：
 ```
-python test.py  #約1min
+python test.py
 ```
 
 ### training
+若要重新訓練模型(約5min)，則：
 ```
-python train.py #約5min
+python train.py
 ```
 
 ## Pretrained Weights
