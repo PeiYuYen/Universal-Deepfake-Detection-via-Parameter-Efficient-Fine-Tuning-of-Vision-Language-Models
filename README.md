@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ## Quick Start
 直接使用以下指令快速開始：
 
-## Inference Command
+### Inference Command
 載入訓練後的權重檔：
 ```
 python test.py  #約1min
@@ -42,7 +42,7 @@ python train.py #約5min
 ```
 
 ## Pretrained Weights
-[預訓練權重檔]
+[預訓練權重檔](https://huggingface.co/pui8838/dfvlm_rora/tree/main)
 
 ## Results
 於results/ 裡
