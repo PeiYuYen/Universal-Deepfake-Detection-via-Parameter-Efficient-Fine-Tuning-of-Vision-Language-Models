@@ -46,7 +46,7 @@ python train.py
 
 ## Pretrained Weights
 [預訓練權重檔](https://huggingface.co/pui8838/dfvlm_rora/tree/main)
-請下載到本repo下新建model_weights的子資料夾下。
+請下載到本repo下新建"model_weights"的子資料夾下。
 
 ## Results
 於results/ 裡
