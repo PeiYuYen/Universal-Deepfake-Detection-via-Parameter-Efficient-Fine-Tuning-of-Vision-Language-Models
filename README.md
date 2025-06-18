@@ -24,6 +24,8 @@ python dataset.py
 ```bash
 conda create -n dfvlm python=3.8
 conda activate dfvlm
+git clone https://github.com/PeiYuYen/Universal-Deepfake-Detection-via-Parameter-Efficient-Fine-Tuning-of-Vision-Language-Models.git
+cd Universal-Deepfake-Detection-via-Parameter-Efficient-Fine-Tuning-of-Vision-Language-Models/
 pip install -r requirements.txt
 ```
 
