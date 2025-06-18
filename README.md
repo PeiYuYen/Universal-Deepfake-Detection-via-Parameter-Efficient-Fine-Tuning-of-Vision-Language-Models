@@ -22,7 +22,7 @@ python dataset.py
 ## Setup
 使用 Conda 環境：
 ```bash
-conda create -n dfvlm python= 3.8
+conda create -n dfvlm python=3.8
 conda activate dfvlm
 pip install -r requirements.txt
 ```
@@ -49,3 +49,5 @@ python train.py #約5min
 * 包含每個影片的分數 (per-video scores)
 * 包含每一禎的分數 (per-frame scores)
 * 整體指標 (overall metrics)
+
+ROC curve -> roc_curve.png
